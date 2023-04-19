@@ -29,3 +29,10 @@
     height: 400px;
     background-color: darkmagenta;
 }
+#wyjatkowy {
+    border-style: solid;
+    float: left;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
